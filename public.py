@@ -463,4 +463,4 @@ async def say(ctx, *, content:str):
 		await ctx.send("**Lol You Not Have Permission To use this commands**:joy: "+ctx.author.mention)
 		
 		
-bot.run('NjEwMzg4MDUyNDEzNTEzNzI4.XZMTwQ.sFTsiwiWLNdKr8dz4tx3GzHXQ9s')
+bot.run('NjY5ODUzMzE5OTA4NTU2ODAw.Xil8Mw.ATD1F4MdBBx5lT3coGAcIUZA9v8')
